@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "904815360477",
+    "project_id": "crmfinal-3c084",
+    "storage_bucket": "crmfinal-3c084.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904815360477:android:03f5f049835aaee6a81e34",
+        "android_client_info": {
+          "package_name": "com.project.finalcrm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904815360477-in6nfmadvtamr7mldv4tk80do0dv4hlg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.finalcrm",
+            "certificate_hash": "f5ddd3f8722045a4c18770b9f32e505171556eb1"
+          }
+        },
+        {
+          "client_id": "904815360477-in6nfmadvtamr7mldv4tk80do0dv4hlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkZhvE0IzMA4c4JfAAWzgDELBYpjuV7w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904815360477-in6nfmadvtamr7mldv4tk80do0dv4hlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
